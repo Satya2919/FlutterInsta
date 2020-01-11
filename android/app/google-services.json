@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72593084939",
+    "firebase_url": "https://islc-bce18.firebaseio.com",
+    "project_id": "islc-bce18",
+    "storage_bucket": "islc-bce18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72593084939:android:e19704ea8885163a41ed0e",
+        "android_client_info": {
+          "package_name": "com.code4lab.flutterinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72593084939-ci293bm3st3312ag1osf9k7enpf0ceug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx5fO0lZWO8unVYXU9248yspIQC6zan0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72593084939-ci293bm3st3312ag1osf9k7enpf0ceug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
